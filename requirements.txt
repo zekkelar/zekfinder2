@@ -1,1 +1,5 @@
-aiohttp
+pyTelegramBotAPI
+bs4
+requests
+pandas
+pyarmor

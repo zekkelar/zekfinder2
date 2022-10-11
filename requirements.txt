@@ -2,4 +2,6 @@ pyTelegramBotAPI
 bs4
 requests
 pandas
-pyarmor
+boto3
+botocore
+numpy
